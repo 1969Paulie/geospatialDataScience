@@ -1,2 +1,2 @@
 # geospatialDataScience
-Upload with commit notigication containing timestamp and file type.
+Upload with commit notification containing date/timestamp and file type.
